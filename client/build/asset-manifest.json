@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.451067fb.css",
+    "main.js": "/static/js/main.6c88671a.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/static/js/787.c4e7f8f9.chunk.js",
+    "static/media/vinek-img.jpeg": "/static/media/vinek-img.90f8ef19d5f002c6b8c4.jpeg",
+    "index.html": "/index.html",
+    "main.451067fb.css.map": "/static/css/main.451067fb.css.map",
+    "main.6c88671a.js.map": "/static/js/main.6c88671a.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/static/js/787.c4e7f8f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.451067fb.css",
+    "static/js/main.6c88671a.js"
+  ]
+}
