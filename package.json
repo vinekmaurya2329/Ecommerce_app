@@ -8,12 +8,11 @@
   "scripts": {
     "start": "node Server.js",
     "server": "nodemon Server.js",
-    "build": "npm i",
     "client": "npm start --prefix ./client",
     "dev": "concurrently \"npm run start\" \"npm run client\""
   },
   "keywords": [],
-  "author": "",
+  "author": "vinek maurya",
   "license": "ISC",
   "dependencies": {
     "bcrypt": "^5.1.0",
